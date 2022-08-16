@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Gabriel Dias 👋 SEJA BEM-VINDO!
 
 
-- 🔭 Hoje estou em busca do meu primeiro Emprego na área de programação!
-- 🌱 Estou estudando Desenvolvimento Full Stack na RESILIA 💛;
+- 🔭Developer Front-End formado pela Resilia Educação, estudante de Análise e Desenvolvimento de Sistemas!
+- 🌱 Trabalho Atual : Livros Interativos (HTML,CSS e JavaScrpit)
 <div align="center">
   <a href="https://github.com/gabrieldiasweb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldiasweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
